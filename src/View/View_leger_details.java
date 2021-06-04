@@ -117,7 +117,7 @@ public class View_leger_details extends javax.swing.JPanel {
 
         jLabel5.setIcon(new javax.swing.ImageIcon("C:\\Users\\gauri\\OneDrive\\Pictures\\Camera Roll\\1011.jpg")); // NOI18N
         jLabel5.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 3));
-        jPanel1.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 100, 130));
+        jPanel1.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 100, 140));
 
         jPanel4.add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 50, 1260, 80));
 
